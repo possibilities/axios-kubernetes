@@ -1,7 +1,7 @@
 {
   "name": "axios-kubernetes",
   "description": "Axios client with niceties for Kubernetes",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/possibilities/axios-kubernetes"
