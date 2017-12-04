@@ -15,7 +15,6 @@ Axios client with niceties for Kubernetes
 
 ##### Events
 
-* `item`
 * `item:added`
 * `item:deleted`
 * `item:modified`
